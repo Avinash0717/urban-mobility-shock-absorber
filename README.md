@@ -38,6 +38,7 @@ Estimate absorption capacity.
 
 ## Repository Structure
 
+<pre>
 ├── 📁 data
 │   ├── 📁 processed
 │   └── 📁 raw
@@ -47,6 +48,7 @@ Estimate absorption capacity.
 ├── 📁 notebooks
 ├── 📁 visuals
 └── 📝 README.md
+</pre>
 
 ## Current Status
 
